@@ -18,6 +18,9 @@ The result strongly supports the idea that people make guesses based on their ow
 contingeies between item and source when they do not remember the source.
 
 Arnold, N. R., Bayen, U. J., Kuhlmann, B. G., & Vaterrodt, B. (2013). Hierarchical modeling of contingency-based source monitoring: A test of the probability-matching account. Psychonomic Bulletin & Review, 20, 326-333.
+
 Batchelder, W. H., & Riefer, D. M. (1990). Multinomial processing models of source monitoring. Psychological Review, 97(4), 548-564.
+
 Heck, D.W., Arnold, N.R. & Arnold, D. (2018). TreeBUGS: An R package for hierarchical multinomial-processing-tree modeling. Behavior Research Methods, 50(1), 264-284.
+
 Klauer, K. C. (2010). Hierarchical multinomial processing tree models: A latent-trait approach. Psychometrika, 75, 70–98.
